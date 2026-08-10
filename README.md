@@ -92,7 +92,9 @@ Place the final `.pbix` file in the `powerbi/` folder.
 
 ## Dashboard Screenshot
 Place a screenshot of the final dashboard in the `screenshots/` folder and add it below:
-![Dashboard](screenshots/dashboard.png)
+## Dashboard Preview
+
+![Retail Sales Dashboard](./screenshots/dashboard.png)
 
 ## Interview Explanation
 A concise explanation:
